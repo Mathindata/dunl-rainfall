@@ -2,8 +2,6 @@
 
 A from-scratch rebuild of **Deconvolutional Unrolled Neural Learning (DUNL)**, applied to hourly rainfall and streamflow from a small catchment in Pennsylvania.
 
-Everything is in one notebook: [`dunl_rainfall_runoff.ipynb`](dunl_rainfall_runoff.ipynb). All outputs and plots are saved inside it, so GitHub shows the full run without re-running anything.
-
 ---
 
 ## 1. The problem
